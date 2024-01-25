@@ -1,0 +1,44 @@
+body{
+    background: #ffffff;
+}
+
+
+
+header{
+    width: 100%;
+    overflow: hidden;
+    background: #c94a4a;
+    margin-bottom: 20px;
+}
+.header{
+    width:90%; 
+	max-width:1000px; 
+	margin:auto; 
+	overflow:hidden;
+}
+header nav{
+    line-height: 80px;
+
+}
+header nav a{
+display: flex;
+justify-content: center;
+color: #ffffff;
+text-decoration: none;
+padding: 4px 8px;
+line-height: normal;
+font-size: 50px;
+font-weight: bold;
+}
+.section1{
+    background: #c1b7b7;
+    width:100% ;
+    height: 300px;
+}
+.boton{
+    height: 50px;
+    width: 100px;
+     border-radius: 10px;
+     margin-left: 369px;
+     margin-top: 20px;
+}
